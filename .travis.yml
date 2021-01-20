@@ -28,7 +28,7 @@ env:
   global:
     - ORCA_SUT_NAME=acquia/drupal-spec-tool
     - ORCA_SUT_BRANCH=master
-    - ORCA_VERSION=^3
+    - ORCA_VERSION=dev-wip
     - ORCA_TELEMETRY_ENABLE=TRUE
 
 jobs:
